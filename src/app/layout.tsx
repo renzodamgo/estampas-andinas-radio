@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Estampas Andinas por Orestes Damián Radio por Internet",
-  description: "Radio por internet de música andina",
+  title: "Estampas Andinas por Orestes Damián | Radio por Internet",
+  description: "Todos los días a la 7 AM ,Radio por internet de música andina",
 };
 
 export default function RootLayout({
