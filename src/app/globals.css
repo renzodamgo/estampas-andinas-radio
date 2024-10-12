@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url("/tarma.webp");
+  background-image: url("/imgs/tarma_upscaled.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
